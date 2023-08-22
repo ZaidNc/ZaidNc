@@ -1,9 +1,4 @@
 ### Hi ,I'm Daniel Navarro 👾
-<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-<p align="center">
-<a href="https://open.spotify.com/intl-es/track/0KzAbK6nItSqNh8q70tb0K?si=f76cf583445e4955"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
-
-
 
 
 
