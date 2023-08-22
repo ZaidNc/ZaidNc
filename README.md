@@ -24,7 +24,7 @@
 </div>
 
 
- <img align="right" alt="GIF" height="160px" src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP" />
+ <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" />
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm a Full Stack Developer Student  
 
