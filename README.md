@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi ,I'm Daniel Navarro 👾
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+
+
+
+
+
+
 
 <!--
 **ZaidNc/ZaidNc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
