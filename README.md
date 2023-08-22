@@ -3,6 +3,8 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ## I'm a Full Stack Developer Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
