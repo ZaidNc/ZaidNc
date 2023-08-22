@@ -24,7 +24,7 @@
 </div>
 
 
-
+ <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm a Full Stack Developer Student  
 
@@ -34,8 +34,6 @@
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
 ---
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
