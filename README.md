@@ -24,7 +24,7 @@
 </div>
 
 
- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
+ <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFoMzJidnV0bG4xaGU3bmduZHJxZDdhdm1wODJ2dmN2bWE3OTA3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" />
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm a Full Stack Developer Student  
 
