@@ -28,10 +28,10 @@
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Full Stack Developer Student  
 
--👨‍💻 En la actualidad, me desempeño en el campo de las tecnologías de desarrollo web, como JavaScript, React, entre otras.
--📚 Estoy inmerso en el aprendizaje exhaustivo de las tecnologías tanto del Frontend como del Backend. 😺
--💪🏼 Mis metas a futuro incluyen seguir ampliando mi dominio en diferentes tecnologías y nunca dejar de generar nuevas ideas.
--⚡ Dato curioso: ¡Me apasionan los videojuegos tácticos! 👾
+- 👨‍💻 En la actualidad, me desempeño en el campo de las tecnologías de desarrollo web, como JavaScript, React, entre otras.
+- 📚 Estoy inmerso en el aprendizaje exhaustivo de las tecnologías tanto del Frontend como del Backend. 😺
+- 💪🏼 Mis metas a futuro incluyen seguir ampliando mi dominio en diferentes tecnologías y nunca dejar de generar nuevas ideas.
+- ⚡ Dato curioso: ¡Me apasionan los videojuegos tácticos! 👾
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danielnavarrozt)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:danielkristopher0563@gmail.com)
