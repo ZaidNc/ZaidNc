@@ -25,6 +25,10 @@
 - 💪🏼 Mis metas a futuro incluyen seguir ampliando mi dominio en diferentes tecnologías y nunca dejar de generar nuevas ideas.
 - ⚡ Dato curioso: ¡Me encantan los videojuegos tácticos! 👾
 
+
+💻TechSkills 
+JavaScript | TypeScript | React | Next.js | Redux | HTML | CSS | Node | Express | Nest.js | PostgreSQL | Sequelize | MongoDB | TypeORM | Docker | Git | GitHub
+
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danielnavarrozt)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:dkrisnavarro@gmail.com)
 
