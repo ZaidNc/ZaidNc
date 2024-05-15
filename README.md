@@ -1,14 +1,14 @@
 <!-- Horizontal Divider with Gradient -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
-<!-- Header without Bottom Border -->
-<div id="user-content-toc" align="center">
-  <summary><h1 style="display: inline-block"><b>Hi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">, I'm Daniel Navarro! 🚀</h1></summary>
+<!-- Header without Lines -->
+<div align="center">
+  <h1 style="border-bottom: none; margin: 0;"><b>Hi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">, I'm Daniel Navarro! 🚀</h1>
 </div>
 
-<!-- Subheader without Bottom Border -->
-<div id="user-content-toc" align="center">
-  <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+<!-- Subheader without Lines -->
+<div align="center">
+  <h2 style="border-bottom: none; margin: 0;">Confusion is part of Programming</h2>
 </div>
 
 <img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZvdjg3bWdheWF0enZjanpyNmtnZGZja2piYng0bnRuenk5NXJzMCZlcD12MV9pbnRlcm5faWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
