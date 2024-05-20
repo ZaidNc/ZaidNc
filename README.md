@@ -18,7 +18,7 @@
 - 👨‍💻 Actualmente, me desempeño en el campo de las tecnologías de desarrollo web, como JavaScript, React, entre otras.
 - 📚 Estoy inmerso en el aprendizaje exhaustivo de tecnologías tanto del Frontend como del Backend. 😺
 - 💪🏼 Mis metas a futuro incluyen seguir ampliando mi dominio en diferentes tecnologías y nunca dejar de generar nuevas ideas.
-- ⚡ Dato curioso: ¡Me encantan los videojuegos tácticos! 👾
+- ⚡ Dato curioso: ¡Me encantan los videojuegos! 👾
 
 ### 💻 Tech Skills
 JavaScript | TypeScript | React | Next.js | Redux | HTML | CSS | Node.js | Express | Nest.js | PostgreSQL | Sequelize | MongoDB | TypeORM | Docker | Git | GitHub
