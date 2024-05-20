@@ -16,7 +16,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Developer GIF"> Full Stack Developer Student  
 
 - 👨‍💻 Actualmente, me desempeño en el campo de las tecnologías de desarrollo web, como JavaScript, React, entre otras.
-- 📚 Estoy inmerso en el aprendizaje exhaustivo de tecnologías tanto del Frontend como del Backend. 😺
+- 📚 Estoy inmerso en el aprendizaje exhaustivo de tecnologías tanto del Frontend como del Backend.
 - 💪🏼 Mis metas a futuro incluyen seguir ampliando mi dominio en diferentes tecnologías y nunca dejar de generar nuevas ideas.
 - ⚡ Dato curioso: ¡Me encantan los videojuegos! 👾
 
