@@ -23,8 +23,6 @@
 ### 💻 Tech Skills
 JavaScript | TypeScript | React | Next.js | Redux | HTML | CSS | Node.js | Express | Nest.js | PostgreSQL | Sequelize | MongoDB | TypeORM | Docker | Git | GitHub
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danielnavarrozt)
-[![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:dkrisnavarro@gmail.com)
-
----
+📫 **Get in Touch:**
+- [LinkedIn](https://www.linkedin.com/in/danielnavarrozt)
+- [E-Mail](mailto:dkrisnavarro@gmail.com)
