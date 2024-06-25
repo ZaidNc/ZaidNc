@@ -22,6 +22,8 @@
 
 ### 💻 Tech Skills 🛠️
 
+<div align="center">
+
 | Frontend              | Backend                     | Other Magic               |
 |:----------------------:|:---------------------------:|:-------------------------:|
 | ⚛ React               | 🌐 Node.js                  | 🛠️ Scrum                   |
@@ -30,6 +32,8 @@
 | 💻 HTML                | 🍃 MongoDB                  | 🔧 Git                      |
 | 🌀 JavaScript          | 🚧 Nest.js                  | 📂 GitHub                  |
 | 🛠️ TypeScript          | 📦 Sequelize                | 🔄 TypeORM                 |
+
+</div>
 
 ### 📫 Get in Touch:
 
