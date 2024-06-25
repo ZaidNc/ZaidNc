@@ -20,8 +20,16 @@
 - 💪🏼 Mis metas a futuro incluyen seguir ampliando mi dominio en diferentes tecnologías y nunca dejar de generar nuevas ideas.
 - ⚡ Dato curioso: ¡Me encantan los videojuegos! 👾
 
-### 💻 Tech Skills
-JavaScript | TypeScript | React | Next.js | Redux | HTML | CSS | Node.js | Express | Nest.js | PostgreSQL | Sequelize | MongoDB | TypeORM | Docker | Git | GitHub
+### 💻 Tech Skills 🛠️
+
+| Frontend              | Backend                     | Other Magic               |
+|:----------------------:|:---------------------------:|:-------------------------:|
+| ⚛ React               | 🌐 Node.js                  | 🛠️ Scrum                   |
+| 📱 Next.js             | 🚀 Express                  | 📦 Redux                   |
+| 🎨 CSS                | 🐘 PostgreSQL               | 🛢️ Docker                  |
+| 💻 HTML                | 🍃 MongoDB                  | 🔧 Git                      |
+| 🌀 JavaScript          | 🚧 Nest.js                  | 📂 GitHub                  |
+| 🛠️ TypeScript          | 📦 Sequelize                | 🔄 TypeORM                 |
 
 📫 **Get in Touch:**
 - [LinkedIn](https://www.linkedin.com/in/danielnavarrozt)
