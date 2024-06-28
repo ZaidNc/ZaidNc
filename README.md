@@ -16,11 +16,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Developer GIF"> About Me
 
-- 👋 Hi, I'm Daniel, 19 years old from Colombia. I love Front-End development.
-- 👨‍💻 Currently, I specialize in web development technologies such as JavaScript and React.
-- 📚 I am deeply immersed in learning both Frontend and Backend technologies.
-- 💪 My future goals include expanding my expertise in various technologies and continually generating new ideas.
-- ⚡ Fun fact: I love video games! 👾
+- 👋 ¡Hola! Soy Daniel, tengo 19 años y soy de Colombia. Me apasiona el desarrollo Front-End.
+- 👨‍💻 Actualmente, me especializo en tecnologías de desarrollo web como JavaScript y React.
+- 📚 Estoy profundamente inmerso en aprender tanto Frontend como Backend.
+- 💪 Mis metas futuras incluyen expandir mi expertise en diversas tecnologías y generar constantemente nuevas ideas.
+- ⚡ Dato curioso: ¡Me encantan los videojuegos! 👾
 
 <div align="center">
 
