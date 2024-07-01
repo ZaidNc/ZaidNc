@@ -20,7 +20,6 @@
 - 👨‍💻 Actualmente, me especializo en tecnologías de desarrollo web como JavaScript y React.
 - 📚 Estoy profundamente inmerso en aprender tanto Frontend como Backend.
 - 💪 Mis metas futuras incluyen expandir mi expertise en diversas tecnologías y generar constantemente nuevas ideas.
-- ⚡ Dato curioso: ¡Me encantan los videojuegos! 👾
 
 <div align="center">
 
