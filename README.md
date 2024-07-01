@@ -28,12 +28,14 @@
 
 | Frontend              | Backend                     | Other Magic               |
 |:----------------------:|:---------------------------:|:-------------------------:|
-| ⚛ React               | 🌐 Node.js                  | 🛠️ Scrum                   |
-| 📱 Next.js             | 🚀 Express                  | 📦 Redux                   |
-| 🎨 CSS                | 🐘 PostgreSQL               | 🛢️ Docker                  |
-| 💻 HTML                | 🍃 MongoDB                  | 🔧 Git                      |
-| 🌀 JavaScript          | 🚧 Nest.js                  | 📂 GitHub                  |
-| 🛠️ TypeScript          | 📦 Sequelize                | 🔄 TypeORM                 |
+| 🌀 JavaScript          | 🌐 Node.js                  | 🛠️ Visual Studio           |
+| 💻 HTML                | 🐘 PostgreSQL               | 🎨 Figma                   |
+| 🎨 CSS                 | 🍃 MongoDB                  | 🎨 Graphic Design          |
+| 🎨 Tailwind            | 🛢️ SQL                     | 🛢️ Postman                 |
+| ⚛ React               | 🍃 Mongoose                 | 🎨 UX/UI Design            |
+| 🎨 Material UI         | ☁️ Cloudinary               | 🔧 Git                     |
+| 📦 Redux               | 💻 MySQL                    | 📂 GitHub                  |
+| 📦 Redux               | 🚧 Sequelize                | 📂 PL/SQL                  |
 
 </div>
 
