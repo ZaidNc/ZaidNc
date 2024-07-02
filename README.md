@@ -34,7 +34,7 @@
 | ⚛ React               | 🍃 Mongoose                 | 🎨 UX/UI Design            |
 | 🎨 Material UI         | ☁️ Cloudinary               | 🔧 Git                     |
 | 📦 Redux               | 💻 MySQL                    | 📂 GitHub                  |
-| 📦 Redux               | 🚧 Sequelize                | 📂 PL/SQL                  |
+|                        | 🚧 Sequelize                | 📂 PL/SQL                  |
 
 </div>
 
