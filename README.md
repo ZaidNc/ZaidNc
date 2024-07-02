@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZvdjg3bWdheWF0enZjanpyNmtnZGZja2piYng0bnRuenk5NXJzMCZlcD12MV9pbnRlcm5faWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Developer GIF"> About Me
+###  About Me
 
 - 👋 ¡Hola! Soy Daniel, tengo 19 años y soy de Colombia. Me apasiona el desarrollo Front-End.
 - 👨‍💻 Actualmente, me especializo en tecnologías de desarrollo web como JavaScript y React.
