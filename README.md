@@ -2,10 +2,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 
 <!-- Header without Lines -->
-<div align="center">
-  <h1 style="border-bottom: none; margin: 0;"><b>Hi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">, I'm Daniel Navarro! 🚀</h1>
-  <p style="margin: 0;">I'm a passionate Full Stack Developer Student from Colombia</p>
-</div>
+<p align="center">
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF6666&center=true&vCenter=true&width=435&lines=Learning+new+things;Front-end+developer;Willing+to+receive+feedback" alt="Typing SVG" /></a>
+</p>
 
 <!-- Subheader without Lines -->
 <div align="center">
