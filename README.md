@@ -46,7 +46,7 @@ Desarrollador apasionado con experiencia en el diseño y desarrollo de aplicacio
 
 ### 📫¿Quieres Trabajar Juntos?
 
-Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto interesante o simplemente quieres conectar, ¡no dudes en ponerte en contacto!
+Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto interesante o simplemente quieres conectar, ¡no dudes en ponerte en contacto! 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielnavarrozt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
