@@ -36,11 +36,11 @@ Desarrollador apasionado con experiencia en el diseño y desarrollo de aplicacio
 |:----------------------:|:---------------------------:|:-------------------------:|
 | 🌀 JavaScript          | 🌐 Node.js                  | 🛠️ Visual Studio           |
 | 💻 HTML                | 🐘 PostgreSQL               | 🎨 Graphic Design          |
-| 🎨 CSS                 | 🍃 MongoDB                  | 📂 PL/SQL                  |
-| 🎨 Tailwind            | 🛢️ SQL                     | 🛢️ Postman                 |
-| ⚛ React               | ☁️ Cloudinary                 | 🎨 UX/UI Design            |
-| 🎨 Material UI         | 💻 MySQL                | 🔧 Git                     |
-| 📦 Redux               | 🚧 Sequelize                   | 📂 GitHub                  |
+| 🎨 CSS                 | 🍃 MongoDB                  | 📂 GitHub                   |
+| 🎨 Tailwind            | ☁️ Cloudinary               | 🛢️ Postman                 |
+| ⚛ React               | 💻 MySQL                   | 🎨 UX/UI Design            |
+| 🎨 Material UI         |  🚧 Sequelize             | 🔧 Git                     |
+| 📦 Redux               |                            |                  |
 
 </div>
 
