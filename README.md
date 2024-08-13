@@ -9,13 +9,6 @@
   <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF6666&center=true&vCenter=true&width=435&lines=Learning+new+things;Front-end+developer;Willing+to+receive+feedback" alt="Typing SVG" /></a>
 </p>
 
-<!-- Subheader without Lines -->
-<div align="center">
-  <h2 style="border-bottom: none; margin: 0;">Confusion is part of Programming</h2>
-</div>
-
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Developer GIF"> Sobre Mí
 
 Desarrollador apasionado con experiencia en el diseño y desarrollo de aplicaciones web. Me especializo en el uso de tecnologías modernas como **React**, **Next.js**, y **Tailwind CSS** para construir aplicaciones atractivas y funcionales.
@@ -39,8 +32,7 @@ Desarrollador apasionado con experiencia en el diseño y desarrollo de aplicacio
 | 🎨 CSS                 | 🍃 MongoDB                  | 📂 GitHub                   |
 | 🎨 Tailwind            | ☁️ Cloudinary               | 🛢️ Postman                 |
 | ⚛ React               | 💻 MySQL                   | 🎨 UX/UI Design            |
-| 🎨 Material UI         |  🚧 Sequelize             | 🔧 Git                     |
-| 📦 Redux               |                            |                  |
+| 📦 Redux         |  🚧 Sequelize             | 🔧 Git                     |
 
 </div>
 
