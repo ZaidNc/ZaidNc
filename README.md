@@ -15,8 +15,6 @@ Desarrollador apasionado con experiencia en el diseño y desarrollo de aplicacio
 - **Diseño de UI/UX**: Disfruto diseñar y mejorar la experiencia del usuario mediante una interfaz intuitiva y atractiva.
 - **Automatización y DevOps**: Interesado en optimizar flujos de trabajo y procesos mediante herramientas y prácticas modernas.
 
-
-
 <div align="center">
 
 ### 💻 Tech Skills 🛠️
