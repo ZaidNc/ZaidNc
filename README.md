@@ -16,7 +16,6 @@ Desarrollador apasionado con experiencia en el diseño y desarrollo de aplicacio
 - **Automatización y DevOps**: Interesado en optimizar flujos de trabajo y procesos mediante herramientas y prácticas modernas.
 
 <div align="center">
-
 ### 💻 Tech Skills 🛠️
 
 | Frontend              | Backend                     | Other Magic               |
