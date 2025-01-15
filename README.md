@@ -10,7 +10,7 @@
 Desarrollador apasionado con experiencia en el diseño y desarrollo de aplicaciones web. Me especializo en el uso de tecnologías modernas como **React**, **Next.js**, y **Tailwind CSS** para construir aplicaciones atractivas y funcionales.
 
 ### Mis Intereses  
-
+  
 - **Desarrollo Frontend**: Me encanta crear interfaces de usuario elegantes y funcionales. Uso tecnologías como **React**, **Next.js**, y **Tailwind CSS** para construir experiencias web de alta calidad.
 - **Diseño de UI/UX**: Disfruto diseñar y mejorar la experiencia del usuario mediante una interfaz intuitiva y atractiva.
 - **Automatización y DevOps**: Interesado en optimizar flujos de trabajo y procesos mediante herramientas y prácticas modernas.
