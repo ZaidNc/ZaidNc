@@ -1,44 +1,29 @@
-<div align="center">
-  <h1 style="border-bottom: none; margin: 0;"><b>Hola</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand">, Soy Daniel Navarro! 🚀</h1>
-</div>
-<p align="center">
-  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF6666&center=true&vCenter=true&width=435&lines=Learning+new+things;Front-end+developer;Willing+to+receive+feedback" alt="Typing SVG" /></a>
-</p>
- 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Developer GIF"> Sobre Mí
+<!-- Daniel Navarro / ZaidNc -->
 
-Desarrollador apasionado con experiencia en el diseño y desarrollo de aplicaciones web. Me especializo en el uso de tecnologías modernas como **React**, **Next.js**, y **Tailwind CSS** para construir aplicaciones atractivas y funcionales.
+## Daniel Navarro
+`// game dev · 3D artist · colombia`
 
-### Mis Intereses  
-  
-- **Desarrollo Frontend**: Me encanta crear interfaces de usuario elegantes y funcionales. Uso tecnologías como **React**, **Next.js**, y **Tailwind CSS** para construir experiencias web de alta calidad.
-- **Diseño de UI/UX**: Disfruto diseñar y mejorar la experiencia del usuario mediante una interfaz intuitiva y atractiva.
-- **Automatización y DevOps**: Interesado en optimizar flujos de trabajo y procesos mediante herramientas y prácticas modernas.
-- 
+---
 
-<div align="center">
-### 💻 Tech Skills 🛠️
+Estudiante de desarrollo de videojuegos.  Me interesan los juegos con mucha personalidad visual — mundos densos, isométricos, con historia en cada rincón.
 
-| Frontend              | Backend                     | Other Magic               |
-|:----------------------:|:---------------------------:|:-------------------------:|
-| 🌀 JavaScript          | 🌐 Node.js                  | 🛠️ Visual Studio           |
-| 💻 HTML                | 🐘 PostgreSQL               | 🎨 Graphic Design          |
-| 🎨 CSS                 | 🍃 MongoDB                  | 📂 GitHub                   |
-| 🎨 Tailwind            | ☁️ Cloudinary               | 🛢️ Postman                 |
-| ⚛ React               | 💻 MySQL                   | 🎨 UX/UI Design            |
-| 📦 Redux         |  🚧 Sequelize             | 🔧 Git                     |
+---
 
-</div>
+### en construcción 🔴
 
-### 📫¿Quieres Trabajar Juntos?
+**MISSED** — juego isométrico cyberpunk en Unity. Ambientado en una ciudad nocturna con combate en zonas urbanas.
+`Unity` `Blender` `isometric` `cyberpunk` `wip`
 
-Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si tienes un proyecto interesante o simplemente quieres conectar, ¡no dudes en ponerte en contacto! 
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/danielnavarrozt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:dkrisnavarro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-</p>
+### herramientas
 
-<!-- Horizontal Divider with Gradient -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+| motor | arte 3D | output | también |
+|-------|---------|--------|---------|
+| Unity · C# | Blender · UV · PBR | FBX · GLTF · fabricación | React · Next.js · Node |
 
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielnavarrozt)
+[![Portfolio](https://img.shields.io/badge/-portafolio-111?style=flat)](https://daniel-nc.vercel.app/)
+[![Email](https://img.shields.io/badge/-email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dkrisnavarro@gmail.com)
